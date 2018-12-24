@@ -1,0 +1,2 @@
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/GoodsCatalog.Core.csprojAssemblyReference.cache
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/GoodsCatalog.Core.csproj.CoreCompileInputs.cache

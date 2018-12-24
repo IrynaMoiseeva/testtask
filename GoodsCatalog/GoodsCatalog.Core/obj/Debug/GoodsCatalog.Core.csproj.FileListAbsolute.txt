@@ -1,0 +1,70 @@
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/GoodsCatalog.Core.dll.config
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/GoodsCatalog.Core.dll
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/GoodsCatalog.Core.pdb
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/Autofac.dll
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/Autofac.Extras.MvvmCross.dll
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/MvvmCross.Binding.dll
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/MvvmCross.Core.dll
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/MvvmCross.Localization.dll
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/MvvmCross.Platform.dll
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/MvvmCross.Plugins.Messenger.dll
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/Newtonsoft.Json.dll
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/SQLite-net.dll
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/SQLite.Net.dll
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/SQLitePCLRaw.core.dll
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/System.Net.Http.Extensions.dll
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/System.Net.Http.Primitives.dll
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/Autofac.xml
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/Autofac.Extras.MvvmCross.xml
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/MvvmCross.Binding.pdb
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/MvvmCross.Core.pdb
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/MvvmCross.Localization.pdb
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/MvvmCross.Platform.pdb
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/MvvmCross.Plugins.Messenger.pdb
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/Newtonsoft.Json.xml
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/System.Net.Http.Extensions.xml
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/System.Net.Http.Primitives.xml
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/bin/Debug/SQLite-net.xml
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/obj/Debug/GoodsCatalog.Core.csproj.App.config
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/obj/Debug/GoodsCatalog.Core.csproj.CoreCompileInputs.cache
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/obj/Debug/GoodsCatalog.Core.csproj.CopyComplete
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/obj/Debug/GoodsCatalog.Core.dll
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/obj/Debug/GoodsCatalog.Core.pdb
+/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Core/obj/Debug/GoodsCatalog.Core.csprojAssemblyReference.cache
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/GoodsCatalog.Core.dll.config
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/GoodsCatalog.Core.dll
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/GoodsCatalog.Core.pdb
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/Autofac.dll
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/Autofac.Extras.MvvmCross.dll
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/MvvmCross.Binding.dll
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/MvvmCross.Core.dll
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/MvvmCross.Localization.dll
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/MvvmCross.Platform.dll
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/MvvmCross.Plugins.Messenger.dll
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/Newtonsoft.Json.dll
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/SQLite-net.dll
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/SQLite.Net.dll
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/SQLitePCLRaw.batteries_green.dll
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/SQLitePCLRaw.batteries_v2.dll
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/SQLitePCLRaw.core.dll
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/System.Net.Http.Extensions.dll
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/System.Net.Http.Primitives.dll
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/Autofac.xml
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/Autofac.Extras.MvvmCross.xml
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/MvvmCross.Binding.pdb
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/MvvmCross.Core.pdb
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/MvvmCross.Localization.pdb
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/MvvmCross.Platform.pdb
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/MvvmCross.Plugins.Messenger.pdb
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/Newtonsoft.Json.xml
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/System.Net.Http.Extensions.xml
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/System.Net.Http.Primitives.xml
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/SQLite-net.xml
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/obj/Debug/GoodsCatalog.Core.csproj.App.config
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/obj/Debug/GoodsCatalog.Core.csprojAssemblyReference.cache
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/obj/Debug/GoodsCatalog.Core.csproj.CoreCompileInputs.cache
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/obj/Debug/GoodsCatalog.Core.csproj.CopyComplete
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/obj/Debug/GoodsCatalog.Core.dll
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/obj/Debug/GoodsCatalog.Core.pdb

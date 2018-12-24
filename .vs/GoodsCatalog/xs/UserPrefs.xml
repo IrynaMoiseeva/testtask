@@ -1,0 +1,50 @@
+﻿<Properties StartupConfiguration="{C5459290-27DD-41FD-A12A-3C5E43ACF35C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GoodsCatalog/GoodsCatalog.Core/DataBase/BaseEntity.cs">
+    <Files>
+      <File FileName="GoodsCatalog/GoodsCatalog.Core/DataBase/SqliteConnectionOperationsAsync.cs" Line="57" Column="26" />
+      <File FileName="GoodsCatalog/GoodsCatalog.Core/DataBase/BaseEntity.cs" Line="1" Column="1" />
+      <File FileName="GoodsCatalog/GoodsCatalog.Core/DataBase/DataBaseConnection.cs" Line="32" Column="2" />
+      <File FileName="GoodsCatalog/GoodsCatalog.Core/DataBase/DbConnectionManager.cs" Line="13" Column="1" />
+      <File FileName="GoodsCatalog/GoodsCatalog.Core/DataBase/IOperationsAsync.cs" Line="29" Column="2" />
+      <File FileName="GoodsCatalog/GoodsCatalog.Core/DataBase/LocalRepositoryOperations.cs" Line="83" Column="2" />
+      <File FileName="GoodsCatalog/GoodsCatalog.Core/Model/Catalog.cs" Line="16" Column="6" />
+      <File FileName="GoodsCatalog/GoodsCatalog.Core/Model/RootObject.cs" Line="8" Column="32" />
+      <File FileName="GoodsCatalog/GoodsCatalog.Core/Module/MappedTypeModule.cs" Line="13" Column="40" />
+      <File FileName="GoodsCatalog/GoodsCatalog.Core/Module/MyModule.cs" Line="2" Column="6" />
+      <File FileName="GoodsCatalog/GoodsCatalog.Core/Repositories/CatalogRepository.cs" Line="1" Column="1" />
+      <File FileName="GoodsCatalog/GoodsCatalog.Core/Repositories/ICatalogRepository.cs" Line="9" Column="41" />
+      <File FileName="GoodsCatalog/GoodsCatalog.Core/Services/IPlatformService.cs" Line="11" Column="29" />
+      <File FileName="GoodsCatalog/GoodsCatalog.Core/Services/Abstract/PlatformService.cs" Line="2" Column="1" />
+      <File FileName="GoodsCatalog/GoodsCatalog.Core/ViewModels/MainViewModel.cs" Line="61" Column="1" />
+      <File FileName="GoodsCatalog/GoodsCatalog.Core/DataBase/ ILocalRepositoryOperations.cs" Line="9" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../MvvmCross Application1/MvvmCross_Application1.Core/DataBase/Repository.cs" line="41" offsetX="447" offsetY="600" expression="list" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <DisabledProjects>
+    <String>MvvmCross Application1/MvvmCross_Application1.Core/GoodsCatalog.Core.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/irina/Documents/testtask/MvvmCross Application1/MvvmCross_Application1.Droid/Properties/IPlatformService_Android.cs" relfile="MvvmCross Application1/MvvmCross_Application1.Droid/Properties/IPlatformService_Android.cs" line="103" column="1" />
+      <Breakpoint file="/Users/irina/Documents/testtask/MvvmCross Application1/MvvmCross_Application1.Droid/Properties/IPlatformService_Android.cs" relfile="MvvmCross Application1/MvvmCross_Application1.Droid/Properties/IPlatformService_Android.cs" line="23" column="1" />
+      <Breakpoint file="/Users/irina/Documents/testtask/MvvmCross Application1/MvvmCross_Application1.Core/DataBase/Repository.cs" relfile="MvvmCross Application1/MvvmCross_Application1.Core/DataBase/Repository.cs" line="35" column="1" />
+      <Breakpoint file="/Users/irina/Documents/testtask/MvvmCross Application1/MvvmCross_Application1.Core/Repositories/FavorRepository.cs" relfile="MvvmCross Application1/MvvmCross_Application1.Core/Repositories/FavorRepository.cs" line="37" column="1" />
+      <Breakpoint file="/Users/irina/Documents/testtask/MvvmCross Application1/MvvmCross_Application1.Droid/Controls/LottieFavoriteButton.cs" relfile="MvvmCross Application1/MvvmCross_Application1.Droid/Controls/LottieFavoriteButton.cs" line="41" column="1" />
+      <Breakpoint file="/Users/irina/Documents/testtask/MvvmCross Application1/MvvmCross_Application1.Droid/Controls/LottieFavoriteButton.cs" relfile="MvvmCross Application1/MvvmCross_Application1.Droid/Controls/LottieFavoriteButton.cs" line="82" column="1" />
+      <Breakpoint file="/Users/irina/Documents/testtask/MvvmCross Application1/MvvmCross_Application1.Droid/Controls/LottieFavoriteButton.cs" relfile="MvvmCross Application1/MvvmCross_Application1.Droid/Controls/LottieFavoriteButton.cs" line="28" column="1" />
+      <Breakpoint file="/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/Views/CatalogFragment.cs" relfile="GoodsCatalog/GoodsCatalog.Droid/Views/CatalogFragment.cs" line="33" column="1" />
+      <Breakpoint file="/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/Views/CatalogFragment.cs" relfile="GoodsCatalog/GoodsCatalog.Droid/Views/CatalogFragment.cs" line="42" column="1" />
+      <Breakpoint file="/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/ViewModels/CatalogViewModel.cs" relfile="GoodsCatalog/GoodsCatalog.Core/ViewModels/CatalogViewModel.cs" line="75" column="1" />
+      <Breakpoint file="/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/Views/CatalogFragment.cs" relfile="GoodsCatalog/GoodsCatalog.Droid/Views/CatalogFragment.cs" line="54" column="1" />
+      <Breakpoint file="/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/ViewModels/CatalogViewModel.cs" relfile="GoodsCatalog/GoodsCatalog.Core/ViewModels/CatalogViewModel.cs" line="56" column="1" />
+      <Breakpoint file="/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/ViewModels/CatalogViewModel.cs" relfile="GoodsCatalog/GoodsCatalog.Core/ViewModels/CatalogViewModel.cs" line="51" column="1" />
+      <Breakpoint file="/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/ViewModels/CatalogViewModel.cs" relfile="GoodsCatalog/GoodsCatalog.Core/ViewModels/CatalogViewModel.cs" line="64" column="1" />
+      <Breakpoint file="/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/ViewModels/CatalogViewModel.cs" relfile="GoodsCatalog/GoodsCatalog.Core/ViewModels/CatalogViewModel.cs" line="29" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.GoodsCatalog.Droid AndroidDesignerPreferredTheme="MyTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+</Properties>
