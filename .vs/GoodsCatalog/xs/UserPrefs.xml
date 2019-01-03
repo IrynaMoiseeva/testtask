@@ -1,22 +1,13 @@
 ﻿<Properties StartupConfiguration="{C5459290-27DD-41FD-A12A-3C5E43ACF35C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="GoodsCatalog/GoodsCatalog.Core/DataBase/BaseEntity.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GoodsCatalog/GoodsCatalog.Droid/Adapters/GoodsListAdapter.cs">
     <Files>
-      <File FileName="GoodsCatalog/GoodsCatalog.Core/DataBase/SqliteConnectionOperationsAsync.cs" Line="57" Column="26" />
-      <File FileName="GoodsCatalog/GoodsCatalog.Core/DataBase/BaseEntity.cs" Line="1" Column="1" />
-      <File FileName="GoodsCatalog/GoodsCatalog.Core/DataBase/DataBaseConnection.cs" Line="32" Column="2" />
-      <File FileName="GoodsCatalog/GoodsCatalog.Core/DataBase/DbConnectionManager.cs" Line="13" Column="1" />
-      <File FileName="GoodsCatalog/GoodsCatalog.Core/DataBase/IOperationsAsync.cs" Line="29" Column="2" />
-      <File FileName="GoodsCatalog/GoodsCatalog.Core/DataBase/LocalRepositoryOperations.cs" Line="83" Column="2" />
-      <File FileName="GoodsCatalog/GoodsCatalog.Core/Model/Catalog.cs" Line="16" Column="6" />
-      <File FileName="GoodsCatalog/GoodsCatalog.Core/Model/RootObject.cs" Line="8" Column="32" />
-      <File FileName="GoodsCatalog/GoodsCatalog.Core/Module/MappedTypeModule.cs" Line="13" Column="40" />
-      <File FileName="GoodsCatalog/GoodsCatalog.Core/Module/MyModule.cs" Line="2" Column="6" />
-      <File FileName="GoodsCatalog/GoodsCatalog.Core/Repositories/CatalogRepository.cs" Line="1" Column="1" />
-      <File FileName="GoodsCatalog/GoodsCatalog.Core/Repositories/ICatalogRepository.cs" Line="9" Column="41" />
-      <File FileName="GoodsCatalog/GoodsCatalog.Core/Services/IPlatformService.cs" Line="11" Column="29" />
-      <File FileName="GoodsCatalog/GoodsCatalog.Core/Services/Abstract/PlatformService.cs" Line="2" Column="1" />
-      <File FileName="GoodsCatalog/GoodsCatalog.Core/ViewModels/MainViewModel.cs" Line="61" Column="1" />
-      <File FileName="GoodsCatalog/GoodsCatalog.Core/DataBase/ ILocalRepositoryOperations.cs" Line="9" Column="6" />
+      <File FileName="GoodsCatalog/GoodsCatalog.Core/Model/Catalog.cs" Line="3" Column="1" />
+      <File FileName="GoodsCatalog/GoodsCatalog.Core/ViewModels/MainViewModel.cs" Line="5" Column="23" />
+      <File FileName="GoodsCatalog/GoodsCatalog.Core/App.cs" Line="19" Column="1" />
+      <File FileName="GoodsCatalog/GoodsCatalog.Core/Module/MyModule.cs" Line="10" Column="1" />
+      <File FileName="GoodsCatalog/GoodsCatalog.Droid/Setup.cs" Line="38" Column="9" />
+      <File FileName="GoodsCatalog/GoodsCatalog.Droid/Views/MainView.cs" Line="1" Column="1" />
+      <File FileName="GoodsCatalog/GoodsCatalog.Droid/Adapters/GoodsListAdapter.cs" Line="71" Column="10" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>

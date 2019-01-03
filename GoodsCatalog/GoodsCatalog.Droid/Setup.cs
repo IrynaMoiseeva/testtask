@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.Reflection;
 using Android.Content;
 using MvvmCross.Binding.Bindings.Target.Construction;
@@ -8,12 +7,7 @@ using MvvmCross.Droid.Platform;
 using MvvmCross.Droid.Support.V7.AppCompat;
 using MvvmCross.Droid.Views;
 using MvvmCross.Platform;
-using MvvmCross.Platform.IoC;
-using Autofac.Extras.MvvmCross;
-using GoodsCatalog.Droid.Properties;
-using GoodsCatalog.Core.Services;
 using GoodsCatalog.Core;
-using GoodsCatalog.Core.Data;
 
 namespace GoodsCatalog.Droid
 {
@@ -25,7 +19,6 @@ namespace GoodsCatalog.Droid
 
         protected override IMvxApplication CreateApp()
         {
-            var container = Mvx.Resolve<IPlatformService>();
             return new App();
         }
 
@@ -48,15 +41,6 @@ namespace GoodsCatalog.Droid
             return mvxFragmentsPresenter;
         }
 
-        protected override IMvxIoCProvider CreateIocProvider()
-        {
-            Dictionary<Type, Type> mappedtypes = new Dictionary<Type, Type>();
-            mappedtypes.Add(typeof(PlatformService_Android), typeof(IPlatformService));
 
-            Bootstarpper bootstarpper = new Bootstarpper();
-            var container = bootstarpper.Build(mappedtypes);
-
-            return new AutofacMvxIocProvider(container);
-        }
     }
 }

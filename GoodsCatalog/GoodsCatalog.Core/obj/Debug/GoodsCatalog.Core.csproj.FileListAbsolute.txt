@@ -63,8 +63,8 @@
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/System.Net.Http.Primitives.xml
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/bin/Debug/SQLite-net.xml
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/obj/Debug/GoodsCatalog.Core.csproj.App.config
-/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/obj/Debug/GoodsCatalog.Core.csprojAssemblyReference.cache
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/obj/Debug/GoodsCatalog.Core.csproj.CoreCompileInputs.cache
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/obj/Debug/GoodsCatalog.Core.csproj.CopyComplete
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/obj/Debug/GoodsCatalog.Core.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/obj/Debug/GoodsCatalog.Core.pdb
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/obj/Debug/GoodsCatalog.Core.csprojAssemblyReference.cache

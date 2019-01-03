@@ -1,8 +1,5 @@
 Autofac
 Autofac.Extras.MvvmCross
-ExoPlayer.Core
-ExoPlayer.Hls
-ExoPlayer.SmoothStreaming
 GoodsCatalog.Core
 Google.Apis.Auth
 Google.Apis.Auth.PlatformServices
@@ -23,7 +20,6 @@ MvvmCross.Platform
 MvvmCross.Platform.Droid
 MvvmCross.Plugins.Json
 MvvmCross.Plugins.Messenger
-Naxam.YoutubePlayerApi.Droid
 Newtonsoft.Json
 SQLite-net
 SQLite.Net

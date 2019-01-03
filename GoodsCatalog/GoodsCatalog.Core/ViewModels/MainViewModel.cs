@@ -5,18 +5,13 @@ using System.Net.Http;
 using Newtonsoft.Json;
 using MvvmCross.Core.ViewModels;
 using GoodsCatalog.Core.Model;
-using GoodsCatalog.Core.Repositories;
+using System.Collections.Generic;
 
 namespace GoodsCatalog.Core.ViewModels
 {
     public class MainViewModel : MvxViewModel
     {
-        public ICatalogRepository localCatalogRepository;
-
-        const string MyKey = "moiseeva-GoodsCat-PRD-b60b1f533-6a22bdcd";
-
-        private string apiebay = "https://svcs.ebay.com/MerchandisingService?OPERATION-NAME=getMostWatchedItems&SERVICE-NAME=MerchandisingService&SERVICE-VERSION=1.5.0&RESPONSE-DATA-FORMAT=JSON"
-            + "&CONSUMER-ID=" + MyKey;
+        private string api = "https://webapi20190101060659.azurewebsites.net/home/getcatalog";
 
         private static ObservableCollection<Catalog> catalogList;
 
@@ -30,10 +25,6 @@ namespace GoodsCatalog.Core.ViewModels
             }
         }
 
-        public MainViewModel(ICatalogRepository localCatalogRepository)
-        {
-            this.localCatalogRepository = localCatalogRepository;
-        }
 
         public override async Task Initialize()
         {
@@ -43,22 +34,8 @@ namespace GoodsCatalog.Core.ViewModels
 
         public async Task InitDataAsync()
         {
-            /* Get data from ebay api and insert to the table 
-                        
-               await localCatalogRepository.DropTable();
-               await localCatalogRepository.CreateTable();
-               CatalogList = await GetDataAsync();
-               var e = await localCatalogRepository.InsertAll(CatalogList);
-                           
-            */
 
-            /* Get data from DB */
-            CatalogList = new ObservableCollection<Catalog>();
-            var list = await localCatalogRepository.GetCatalog();
-            foreach (var item in list)
-            {
-                CatalogList.Add(item);
-            }
+            CatalogList = await GetDataAsync();
 
         }
 
@@ -67,25 +44,21 @@ namespace GoodsCatalog.Core.ViewModels
             var list = new ObservableCollection<Catalog>();
             var httpClient = new HttpClient();
 
-            var json = await httpClient.GetStringAsync(apiebay);
+            var json = await httpClient.GetStringAsync(api);
             try
             {
-                var response = JsonConvert.DeserializeObject<RootObject>(json);
-
-                var items = response.getMostWatchedItemsResponse.itemRecommendations;
-
-
-                foreach (var item in items.item)
+                var items = JsonConvert.DeserializeObject<List<Catalog>>(json);
+                foreach (var item in items)
                 {
                     var catalogitem = new Catalog
                     {
-                        Price = Convert.ToDouble(item.buyItNowPrice.__value__),
-                        Name = item.title,
-                        PhotoUrl = item.imageURL
+                        Price = Convert.ToDouble(item.Price),
+                        Name = item.Name,
+                        PhotoUrl = item.PhotoUrl
                     };
+
                     list.Add(catalogitem);
                 }
-
             }
 
             catch (Exception exception)

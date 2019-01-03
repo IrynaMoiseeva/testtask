@@ -1,12 +1,8 @@
-﻿using GoodsCatalog.Core.DataBase;
-using SQLite.Net.Attributes;
-
-namespace GoodsCatalog.Core.Model
+﻿namespace GoodsCatalog.Core.Model
 {
-    [Table("Catalog")]
-    public class Catalog : IEntity
+    public class Catalog 
     {
-        public int? Id { get; set; }
+        public int Id { get; set; }
 
         public string Name { get; set; }
 

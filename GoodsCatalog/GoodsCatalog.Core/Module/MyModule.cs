@@ -1,6 +1,4 @@
 ﻿using Autofac;
-using GoodsCatalog.Core.Services;
-using GoodsCatalog.Core.Services.Abstract;
 
 namespace GoodsCatalog.Core.Module
 {
@@ -9,7 +7,6 @@ namespace GoodsCatalog.Core.Module
         protected override void Load(ContainerBuilder builder)
         {
             base.Load(builder);
-            builder.RegisterType<PlatformService>().As<IPlatformService>();
         }
     }
 }

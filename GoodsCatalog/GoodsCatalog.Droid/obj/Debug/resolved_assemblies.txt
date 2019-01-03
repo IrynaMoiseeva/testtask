@@ -1,9 +1,6 @@
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/android/assets/GoodsCatalog.Droid.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/android/assets/Autofac.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/android/assets/Autofac.Extras.MvvmCross.dll
-/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/android/assets/ExoPlayer.Core.dll
-/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/android/assets/ExoPlayer.Hls.dll
-/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/android/assets/ExoPlayer.SmoothStreaming.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/android/assets/GoodsCatalog.Core.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/android/assets/Google.Apis.Auth.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/android/assets/Google.Apis.Auth.PlatformServices.dll
@@ -29,7 +26,6 @@
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/android/assets/MvvmCross.Platform.Droid.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/android/assets/MvvmCross.Plugins.Json.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/android/assets/MvvmCross.Plugins.Messenger.dll
-/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/android/assets/Naxam.YoutubePlayerApi.Droid.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/android/assets/Newtonsoft.Json.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/android/assets/SQLite-net.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/android/assets/SQLite.Net.dll
@@ -76,8 +72,8 @@
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/android/assets/System.Reflection.Extensions.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/android/assets/System.Threading.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/android/assets/System.Runtime.Extensions.dll
-/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/android/assets/System.Threading.Tasks.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/android/assets/System.ObjectModel.dll
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/android/assets/System.Threading.Tasks.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/android/assets/netstandard.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/android/assets/System.Data.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/android/assets/System.Numerics.dll

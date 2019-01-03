@@ -68,15 +68,6 @@
     <Reference Include="Autofac.Extras.MvvmCross, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Autofac.Extras.MvvmCross.4.0.2\lib\portable45-net45+win8+wpa81\Autofac.Extras.MvvmCross.dll</HintPath>
     </Reference>
-    <Reference Include="ExoPlayer.Core, Version=2.8.8.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Xam.Plugins.Android.ExoPlayer.Core.2.8.8\lib\monoandroid81\ExoPlayer.Core.dll</HintPath>
-    </Reference>
-    <Reference Include="ExoPlayer.Hls, Version=2.8.8.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Xam.Plugins.Android.ExoPlayer.Hls.2.8.8\lib\monoandroid81\ExoPlayer.Hls.dll</HintPath>
-    </Reference>
-    <Reference Include="ExoPlayer.SmoothStreaming, Version=2.8.8.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Xam.Plugins.Android.ExoPlayer.SmoothStreaming.2.8.8\lib\monoandroid81\ExoPlayer.SmoothStreaming.dll</HintPath>
-    </Reference>
     <Reference Include="Google.Apis, Version=1.35.1.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Google.Apis.1.35.1\lib\netstandard2.0\Google.Apis.dll</HintPath>
     </Reference>
@@ -136,9 +127,6 @@
     </Reference>
     <Reference Include="MvvmCross.Plugins.Messenger, Version=5.7.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\packages\MvvmCross.Plugin.Messenger.5.7.0\lib\MonoAndroid\MvvmCross.Plugins.Messenger.dll</HintPath>
-    </Reference>
-    <Reference Include="Naxam.YoutubePlayerApi.Droid, Version=1.2.2.1, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\packages\Naxam.YouTubePlayerApi.Droid.1.2.2.1\lib\MonoAndroid10\Naxam.YoutubePlayerApi.Droid.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\..\packages\Newtonsoft.Json.11.0.2\lib\netstandard2.0\Newtonsoft.Json.dll</HintPath>
@@ -232,6 +220,8 @@
     <Folder Include="Adapters\" />
     <Folder Include="Resources\drawable\" />
     <Folder Include="Resources\menu\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="Converters\" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\mipmap-hdpi\ic_launcher.png" />
@@ -253,12 +243,10 @@
       <SubType>Designer</SubType>
     </AndroidResource>
     <AndroidResource Include="Resources\layout\catalog_list_item.axml" />
-    <AndroidResource Include="Resources\drawable\separator_line.xml" />
     <AndroidResource Include="Resources\drawable\splash.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
-    <EmbeddedResource Include="Resources\raw\mydb.sqlite" />
     <None Include="packages.config" />
     <None Include="Properties\AndroidManifest.xml">
       <SubType>Designer</SubType>
@@ -268,14 +256,13 @@
   <ItemGroup>
     <Compile Include="Bootstrap\JsonPluginBootstrap.cs" />
     <Compile Include="Bootstrap\MessengerPluginBootstrap.cs" />
-    <Compile Include="Converters\ImageConverter.cs" />
     <Compile Include="LinkerPleaseInclude.cs" />
-    <Compile Include="Properties\IPlatformService_Android.cs" />
     <Compile Include="Setup.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Views\MainView.cs" />
     <Compile Include="Adapters\GoodsListAdapter.cs" />
+    <Compile Include="Helpers\BitmapImageHelper.cs" />
   </ItemGroup>
   <ItemGroup>
     <AndroidAsset Include="Assets\AboutAssets.txt" />

@@ -1,188 +1,3 @@
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/GoodsCatalog.Droid.dll.config
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/GoodsCatalog.Droid.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/GoodsCatalog.Droid.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/GoodsCatalog.GoodsCatalog.apk
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/GoodsCatalog.GoodsCatalog-Signed.apk
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Autofac.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Autofac.Extras.MvvmCross.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/ExoPlayer.Core.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/ExoPlayer.Hls.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/ExoPlayer.SmoothStreaming.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/GoodsCatalog.Core.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Google.Apis.Auth.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Google.Apis.Auth.PlatformServices.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Google.Apis.Core.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Google.Apis.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Google.Apis.YouTube.v3.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Binding.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Binding.Droid.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Core.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Droid.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Droid.Support.Core.UI.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Droid.Support.Design.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Droid.Support.Fragment.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Droid.Support.V7.AppCompat.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Droid.Support.V7.RecyclerView.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Localization.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Platform.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Platform.Droid.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Plugins.Json.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Plugins.Messenger.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Naxam.YoutubePlayerApi.Droid.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Newtonsoft.Json.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/SQLite-net.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/SQLite.Net.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/SQLitePCLRaw.batteries_green.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/SQLitePCLRaw.batteries_v2.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/SQLitePCLRaw.core.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/SQLitePCLRaw.lib.e_sqlite3.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/SQLitePCLRaw.provider.e_sqlite3.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Xamarin.Android.Arch.Core.Common.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Xamarin.Android.Arch.Lifecycle.Common.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Xamarin.Android.Arch.Lifecycle.Runtime.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Xamarin.Android.Support.Animated.Vector.Drawable.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Xamarin.Android.Support.Annotations.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Xamarin.Android.Support.Compat.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Xamarin.Android.Support.Core.UI.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Xamarin.Android.Support.Core.Utils.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Xamarin.Android.Support.Design.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Xamarin.Android.Support.Fragment.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Xamarin.Android.Support.Media.Compat.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Xamarin.Android.Support.Transition.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Xamarin.Android.Support.v4.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Xamarin.Android.Support.v7.AppCompat.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Xamarin.Android.Support.v7.RecyclerView.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Xamarin.Android.Support.Vector.Drawable.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/GoodsCatalog.Core.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/GoodsCatalog.Core.dll.config
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Autofac.xml
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Autofac.Extras.MvvmCross.xml
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/ExoPlayer.Core.xml
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/ExoPlayer.Hls.xml
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/ExoPlayer.SmoothStreaming.xml
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Google.Apis.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Google.Apis.xml
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Google.Apis.Auth.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Google.Apis.Auth.xml
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Google.Apis.Core.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Google.Apis.Core.xml
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Google.Apis.YouTube.v3.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Google.Apis.YouTube.v3.xml
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Binding.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Binding.dll.mdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Binding.Droid.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Binding.Droid.dll.mdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Core.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Core.dll.mdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Droid.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Droid.dll.mdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Droid.Support.Core.UI.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Droid.Support.Core.UI.dll.mdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Droid.Support.Design.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Droid.Support.Design.dll.mdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Droid.Support.Fragment.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Droid.Support.Fragment.dll.mdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Droid.Support.V7.AppCompat.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Droid.Support.V7.AppCompat.dll.mdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Droid.Support.V7.AppCompat.dll.config
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Droid.Support.V7.RecyclerView.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Droid.Support.V7.RecyclerView.dll.mdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Droid.Support.V7.RecyclerView.dll.config
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Localization.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Localization.dll.mdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Platform.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Platform.dll.mdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Platform.Droid.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Platform.Droid.dll.mdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Plugins.Json.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Plugins.Json.dll.mdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Plugins.Messenger.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Plugins.Messenger.dll.mdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Newtonsoft.Json.xml
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/SQLite-net.xml
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/GoodsCatalog.Droid.nuget.stamp
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/MonoAndroid,Version=v8.1.AssemblyAttributes.cs
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/GoodsCatalog.Droid.csprojAssemblyReference.cache
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/libraryimports.cache.stamp
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res.flag
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/GoodsCatalog.Droid.csproj.CoreCompileInputs.cache
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/GoodsCatalog.Droid.csproj.CopyComplete
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/GoodsCatalog.Droid.dll
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/GoodsCatalog.Droid.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/android/bin/GoodsCatalog.GoodsCatalog.apk
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/mipmap-hdpi/ic_launcher.png
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/mipmap-mdpi/ic_launcher.png
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/mipmap-xhdpi/ic_launcher.png
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/mipmap-xxhdpi/ic_launcher.png
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/mipmap-xxxhdpi/ic_launcher.png
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/values/colors.xml
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/values/dimens.xml
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/values/integers.xml
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/values/splashstyle.xml
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/values/strings.xml
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/values/styles.xml
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/values-v21/styles.xml
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/layout/catalog_list_item.xml
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/angel.png
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/apple.jpg
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/badge_item_count.xml
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/calilou.png
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/cart1.png
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/cookies.jpg
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/empty.png
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/fill.png
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/ic_basket.png
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/ic_drawer.png
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/ic_favorite.xml
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/ic_menu.png
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/ic_minus.png
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/ic_plus.png
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/ic_trash.png
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/image_border.jpg
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/main.png
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/main1.jpg
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/menu_options.png
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/mikky_welcome.jpeg
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/mikkym.png
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/milk.jpg
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/options.png
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/pear.jpg
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/peppa.png
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/remove_icon.jpeg
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/round_button.xml
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/rounded_corner.xml
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/separator_line.xml
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/shark.jpg
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/splash.png
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/tomatoes.jpg
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/layout/mainview.xml
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/R.cs.flag
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/R.txt
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/uploadflags.txt
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Mono.Android.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Mono.Android.Export.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/GoodsCatalog.Droid.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/GoodsCatalog.Core.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/Google.Apis.Auth.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/Google.Apis.Core.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/Google.Apis.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/Google.Apis.YouTube.v3.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/Mono.Android.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/Mono.Android.Export.pdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/MvvmCross.Binding.dll.mdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/MvvmCross.Binding.Droid.dll.mdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/MvvmCross.Core.dll.mdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/MvvmCross.Droid.dll.mdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/MvvmCross.Droid.Support.Core.UI.dll.mdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/MvvmCross.Droid.Support.Design.dll.mdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/MvvmCross.Droid.Support.Fragment.dll.mdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/MvvmCross.Droid.Support.V7.AppCompat.dll.mdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/MvvmCross.Droid.Support.V7.RecyclerView.dll.mdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/MvvmCross.Localization.dll.mdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/MvvmCross.Platform.dll.mdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/MvvmCross.Platform.Droid.dll.mdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/MvvmCross.Plugins.Json.dll.mdb
-/Users/irina/Documents/test task/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/MvvmCross.Plugins.Messenger.dll.mdb
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/GoodsCatalog.Droid.dll.config
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/GoodsCatalog.Droid.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/GoodsCatalog.Droid.pdb
@@ -190,9 +5,6 @@
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/GoodsCatalog.GoodsCatalog-Signed.apk
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Autofac.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Autofac.Extras.MvvmCross.dll
-/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/ExoPlayer.Core.dll
-/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/ExoPlayer.Hls.dll
-/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/ExoPlayer.SmoothStreaming.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/GoodsCatalog.Core.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Google.Apis.Auth.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Google.Apis.Auth.PlatformServices.dll
@@ -213,7 +25,6 @@
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Platform.Droid.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Plugins.Json.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Plugins.Messenger.dll
-/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Naxam.YoutubePlayerApi.Droid.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Newtonsoft.Json.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/SQLite-net.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/SQLite.Net.dll
@@ -242,9 +53,6 @@
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/GoodsCatalog.Core.dll.config
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Autofac.xml
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Autofac.Extras.MvvmCross.xml
-/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/ExoPlayer.Core.xml
-/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/ExoPlayer.Hls.xml
-/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/ExoPlayer.SmoothStreaming.xml
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Google.Apis.pdb
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Google.Apis.xml
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Google.Apis.Auth.pdb
@@ -308,12 +116,21 @@
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/values/styles.xml
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/values-v21/styles.xml
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/layout/catalog_list_item.xml
-/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/separator_line.xml
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/splash.png
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/layout/mainview.xml
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/R.cs.flag
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/R.txt
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/uploadflags.txt
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Mono.Android.pdb
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Mono.Android.Export.pdb
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/GoodsCatalog.Droid.pdb
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/GoodsCatalog.Core.pdb
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/Google.Apis.Auth.pdb
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/Google.Apis.Core.pdb
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/Google.Apis.pdb
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/Google.Apis.YouTube.v3.pdb
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/Mono.Android.pdb
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/Mono.Android.Export.pdb
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/MvvmCross.Binding.dll.mdb
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/MvvmCross.Binding.Droid.dll.mdb
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/MvvmCross.Core.dll.mdb

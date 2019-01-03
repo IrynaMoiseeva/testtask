@@ -9,6 +9,7 @@ using MvvmCross.Binding.Droid.BindingContext;
 using MvvmCross.Binding.ExtensionMethods;
 using MvvmCross.Droid.Support.V7.RecyclerView;
 using GoodsCatalog.Core.Model;
+using GoodsCatalog.Droid.Helpers;
 
 namespace GoodsCatalog.Droid.Adapters
 {
@@ -22,7 +23,7 @@ namespace GoodsCatalog.Droid.Adapters
           
         }
 
-        public override Android.Support.V7.Widget.RecyclerView.ViewHolder OnCreateViewHolder(ViewGroup parent, int viewType)
+        public override RecyclerView.ViewHolder OnCreateViewHolder(ViewGroup parent, int viewType)
         {
             var itemBindingContext = new MvxAndroidBindingContext(parent.Context, this.BindingContext.LayoutInflaterHolder);
 
@@ -31,26 +32,6 @@ namespace GoodsCatalog.Droid.Adapters
             return new MyViewHolder(View, itemBindingContext);
         }
 
-        public static Bitmap GetBitmapFromUrl(string url)
-        {
-            try
-            {
-                using (WebClient webClient = new WebClient())
-                {
-                    byte[] bytes = webClient.DownloadData(new Uri(url));
-                    if (bytes != null && bytes.Length > 0)
-                    {
-                        return BitmapFactory.DecodeByteArray(bytes, 0, bytes.Length);
-                    }
-                }
-            }
-            catch (Exception ex)
-            {
-                Console.WriteLine($"Message = {ex.Message} StackTrace = {ex.StackTrace}");
-            }
-
-            return null;
-        }
 
         public class MyViewHolder : MvxRecyclerViewHolder
         {
@@ -78,9 +59,8 @@ namespace GoodsCatalog.Droid.Adapters
 
             MyViewHolder myHolder = holder as MyViewHolder;
 
-            Bitmap bbb = GetBitmapFromUrl(catalog.PhotoUrl);
+            Bitmap bbb = BitmapImageHelper.GetBitmapFromUrl(catalog.PhotoUrl);
             myHolder.photo.SetImageBitmap(bbb);
-
 
             myHolder.name.Text = catalog.Name;
             myHolder.price.Text = catalog.Price.ToString();

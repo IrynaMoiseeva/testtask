@@ -5952,6 +5952,72 @@ namespace GoodsCatalog.Droid
 			// aapt resource value: 0x7f08000a
 			public const int abc_text_size_title_material_toolbar = 2131230730;
 			
+			// aapt resource value: 0x7f0800a4
+			public const int appBarDefaultElevation = 2131230884;
+			
+			// aapt resource value: 0x7f08009f
+			public const int baseMargin = 2131230879;
+			
+			// aapt resource value: 0x7f0800a0
+			public const int bigMargin = 2131230880;
+			
+			// aapt resource value: 0x7f0800a3
+			public const int bottomNavigationBarHeight = 2131230883;
+			
+			// aapt resource value: 0x7f0800a7
+			public const int buttonHeight = 2131230887;
+			
+			// aapt resource value: 0x7f0800b1
+			public const int card_achievement_bottom = 2131230897;
+			
+			// aapt resource value: 0x7f0800af
+			public const int card_achievement_left = 2131230895;
+			
+			// aapt resource value: 0x7f0800b0
+			public const int card_achievement_right = 2131230896;
+			
+			// aapt resource value: 0x7f0800ae
+			public const int card_achievement_top = 2131230894;
+			
+			// aapt resource value: 0x7f0800ac
+			public const int card_bottom = 2131230892;
+			
+			// aapt resource value: 0x7f0800ad
+			public const int card_bottom_last_item = 2131230893;
+			
+			// aapt resource value: 0x7f0800b6
+			public const int card_elevation = 2131230902;
+			
+			// aapt resource value: 0x7f0800a8
+			public const int card_left = 2131230888;
+			
+			// aapt resource value: 0x7f0800ab
+			public const int card_right = 2131230891;
+			
+			// aapt resource value: 0x7f0800a9
+			public const int card_top = 2131230889;
+			
+			// aapt resource value: 0x7f0800aa
+			public const int card_top_first_item = 2131230890;
+			
+			// aapt resource value: 0x7f0800b5
+			public const int category_card_bottom = 2131230901;
+			
+			// aapt resource value: 0x7f0800b2
+			public const int category_card_left = 2131230898;
+			
+			// aapt resource value: 0x7f0800b4
+			public const int category_card_right = 2131230900;
+			
+			// aapt resource value: 0x7f0800b3
+			public const int category_card_top = 2131230899;
+			
+			// aapt resource value: 0x7f0800a6
+			public const int challengesNoDataStubMarginBottom = 2131230886;
+			
+			// aapt resource value: 0x7f0800a1
+			public const int commonDividerHeight = 2131230881;
+			
 			// aapt resource value: 0x7f08008b
 			public const int compat_button_inset_horizontal_material = 2131230859;
 			
@@ -6090,6 +6156,9 @@ namespace GoodsCatalog.Droid
 			// aapt resource value: 0x7f08009b
 			public const int drawer_width = 2131230875;
 			
+			// aapt resource value: 0x7f0800a5
+			public const int fabDefaultElevation = 2131230885;
+			
 			// aapt resource value: 0x7f080000
 			public const int fastscroll_default_thickness = 2131230720;
 			
@@ -6098,6 +6167,12 @@ namespace GoodsCatalog.Droid
 			
 			// aapt resource value: 0x7f080002
 			public const int fastscroll_minimum_range = 2131230722;
+			
+			// aapt resource value: 0x7f08009e
+			public const int halfBaseMargin = 2131230878;
+			
+			// aapt resource value: 0x7f08009d
+			public const int halfHalfBaseMargin = 2131230877;
 			
 			// aapt resource value: 0x7f080052
 			public const int highlight_alpha_material_colored = 2131230802;
@@ -6128,6 +6203,9 @@ namespace GoodsCatalog.Droid
 			
 			// aapt resource value: 0x7f080005
 			public const int item_touch_helper_swipe_escape_velocity = 2131230725;
+			
+			// aapt resource value: 0x7f0800a2
+			public const int menuItemLeftMargin = 2131230882;
 			
 			// aapt resource value: 0x7f08009c
 			public const int nav_header_height = 2131230876;
@@ -6466,26 +6544,26 @@ namespace GoodsCatalog.Droid
 			// aapt resource value: 0x7f020053
 			public const int avd_hide_password = 2130837587;
 			
+			// aapt resource value: 0x7f02006b
+			public const int avd_hide_password_1 = 2130837611;
+			
 			// aapt resource value: 0x7f02006c
-			public const int avd_hide_password_1 = 2130837612;
+			public const int avd_hide_password_2 = 2130837612;
 			
 			// aapt resource value: 0x7f02006d
-			public const int avd_hide_password_2 = 2130837613;
-			
-			// aapt resource value: 0x7f02006e
-			public const int avd_hide_password_3 = 2130837614;
+			public const int avd_hide_password_3 = 2130837613;
 			
 			// aapt resource value: 0x7f020054
 			public const int avd_show_password = 2130837588;
 			
+			// aapt resource value: 0x7f02006e
+			public const int avd_show_password_1 = 2130837614;
+			
 			// aapt resource value: 0x7f02006f
-			public const int avd_show_password_1 = 2130837615;
+			public const int avd_show_password_2 = 2130837615;
 			
 			// aapt resource value: 0x7f020070
-			public const int avd_show_password_2 = 2130837616;
-			
-			// aapt resource value: 0x7f020071
-			public const int avd_show_password_3 = 2130837617;
+			public const int avd_show_password_3 = 2130837616;
 			
 			// aapt resource value: 0x7f020055
 			public const int design_bottom_navigation_item_background = 2130837589;
@@ -6532,11 +6610,11 @@ namespace GoodsCatalog.Droid
 			// aapt resource value: 0x7f020063
 			public const int notification_icon_background = 2130837603;
 			
-			// aapt resource value: 0x7f02006a
-			public const int notification_template_icon_bg = 2130837610;
+			// aapt resource value: 0x7f020069
+			public const int notification_template_icon_bg = 2130837609;
 			
-			// aapt resource value: 0x7f02006b
-			public const int notification_template_icon_low_bg = 2130837611;
+			// aapt resource value: 0x7f02006a
+			public const int notification_template_icon_low_bg = 2130837610;
 			
 			// aapt resource value: 0x7f020064
 			public const int notification_tile_bg = 2130837604;
@@ -6545,16 +6623,13 @@ namespace GoodsCatalog.Droid
 			public const int notify_panel_notification_icon_bg = 2130837605;
 			
 			// aapt resource value: 0x7f020066
-			public const int separator_line = 2130837606;
+			public const int splash = 2130837606;
 			
 			// aapt resource value: 0x7f020067
-			public const int splash = 2130837607;
+			public const int tooltip_frame_dark = 2130837607;
 			
 			// aapt resource value: 0x7f020068
-			public const int tooltip_frame_dark = 2130837608;
-			
-			// aapt resource value: 0x7f020069
-			public const int tooltip_frame_light = 2130837609;
+			public const int tooltip_frame_light = 2130837608;
 			
 			static Drawable()
 			{
