@@ -1,13 +1,13 @@
 ﻿<Properties StartupConfiguration="{C5459290-27DD-41FD-A12A-3C5E43ACF35C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="GoodsCatalog/GoodsCatalog.Droid/Adapters/GoodsListAdapter.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GoodsCatalog/GoodsCatalog.Core/App.cs">
     <Files>
       <File FileName="GoodsCatalog/GoodsCatalog.Core/Model/Catalog.cs" Line="3" Column="1" />
       <File FileName="GoodsCatalog/GoodsCatalog.Core/ViewModels/MainViewModel.cs" Line="5" Column="23" />
-      <File FileName="GoodsCatalog/GoodsCatalog.Core/App.cs" Line="19" Column="1" />
+      <File FileName="GoodsCatalog/GoodsCatalog.Core/App.cs" Line="20" Column="6" />
       <File FileName="GoodsCatalog/GoodsCatalog.Core/Module/MyModule.cs" Line="10" Column="1" />
       <File FileName="GoodsCatalog/GoodsCatalog.Droid/Setup.cs" Line="38" Column="9" />
       <File FileName="GoodsCatalog/GoodsCatalog.Droid/Views/MainView.cs" Line="1" Column="1" />
-      <File FileName="GoodsCatalog/GoodsCatalog.Droid/Adapters/GoodsListAdapter.cs" Line="71" Column="10" />
+      <File FileName="GoodsCatalog/GoodsCatalog.Droid/Adapters/GoodsListAdapter.cs" Line="66" Column="16" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>

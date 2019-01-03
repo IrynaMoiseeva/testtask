@@ -10,7 +10,6 @@
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Google.Apis.Auth.PlatformServices.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Google.Apis.Core.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Google.Apis.dll
-/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Google.Apis.YouTube.v3.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Binding.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Binding.Droid.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Core.dll
@@ -26,13 +25,6 @@
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Plugins.Json.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Plugins.Messenger.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Newtonsoft.Json.dll
-/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/SQLite-net.dll
-/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/SQLite.Net.dll
-/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/SQLitePCLRaw.batteries_green.dll
-/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/SQLitePCLRaw.batteries_v2.dll
-/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/SQLitePCLRaw.core.dll
-/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/SQLitePCLRaw.lib.e_sqlite3.dll
-/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/SQLitePCLRaw.provider.e_sqlite3.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Xamarin.Android.Arch.Core.Common.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Xamarin.Android.Arch.Lifecycle.Common.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Xamarin.Android.Arch.Lifecycle.Runtime.dll
@@ -59,8 +51,6 @@
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Google.Apis.Auth.xml
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Google.Apis.Core.pdb
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Google.Apis.Core.xml
-/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Google.Apis.YouTube.v3.pdb
-/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Google.Apis.YouTube.v3.xml
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Binding.pdb
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Binding.dll.mdb
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Binding.Droid.pdb
@@ -92,10 +82,8 @@
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Plugins.Messenger.pdb
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/MvvmCross.Plugins.Messenger.dll.mdb
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Newtonsoft.Json.xml
-/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/SQLite-net.xml
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/GoodsCatalog.Droid.nuget.stamp
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/MonoAndroid,Version=v8.1.AssemblyAttributes.cs
-/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/GoodsCatalog.Droid.csprojAssemblyReference.cache
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/libraryimports.cache.stamp
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res.flag
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/GoodsCatalog.Droid.csproj.CoreCompileInputs.cache
@@ -128,7 +116,6 @@
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/Google.Apis.Auth.pdb
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/Google.Apis.Core.pdb
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/Google.Apis.pdb
-/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/Google.Apis.YouTube.v3.pdb
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/Mono.Android.pdb
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/Mono.Android.Export.pdb
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/linksrc/MvvmCross.Binding.dll.mdb

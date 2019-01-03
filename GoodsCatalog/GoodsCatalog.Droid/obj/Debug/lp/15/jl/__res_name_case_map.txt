@@ -1,1 +1,1 @@
-Xml/Empty.xml;xml/empty.xml
+values/MvxRecyclerViewBindingAttributes.xml;values/mvxrecyclerviewbindingattributes.xml

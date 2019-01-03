@@ -5,7 +5,6 @@ Google.Apis.Auth
 Google.Apis.Auth.PlatformServices
 Google.Apis.Core
 Google.Apis
-Google.Apis.YouTube.v3
 MvvmCross.Binding
 MvvmCross.Binding.Droid
 MvvmCross.Core
@@ -21,13 +20,6 @@ MvvmCross.Platform.Droid
 MvvmCross.Plugins.Json
 MvvmCross.Plugins.Messenger
 Newtonsoft.Json
-SQLite-net
-SQLite.Net
-SQLitePCLRaw.batteries_green
-SQLitePCLRaw.batteries_v2
-SQLitePCLRaw.core
-SQLitePCLRaw.lib.e_sqlite3
-SQLitePCLRaw.provider.e_sqlite3
 System.Runtime
 Xamarin.Android.Arch.Core.Common
 Xamarin.Android.Arch.Lifecycle.Common
