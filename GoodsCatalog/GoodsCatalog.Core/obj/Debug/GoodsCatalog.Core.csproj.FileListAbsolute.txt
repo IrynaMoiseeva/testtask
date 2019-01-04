@@ -67,3 +67,4 @@
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/obj/Debug/GoodsCatalog.Core.csproj.CopyComplete
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/obj/Debug/GoodsCatalog.Core.dll
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/obj/Debug/GoodsCatalog.Core.pdb
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Core/obj/Debug/GoodsCatalog.Core.csprojAssemblyReference.cache

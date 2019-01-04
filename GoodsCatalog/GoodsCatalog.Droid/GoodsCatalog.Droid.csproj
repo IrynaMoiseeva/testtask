@@ -220,6 +220,7 @@
     </AndroidResource>
     <AndroidResource Include="Resources\layout\catalog_list_item.axml" />
     <AndroidResource Include="Resources\drawable\splash.png" />
+    <AndroidResource Include="Resources\drawable\buttonrounded.xml" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />

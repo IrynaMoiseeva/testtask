@@ -6,12 +6,13 @@ using Newtonsoft.Json;
 using MvvmCross.Core.ViewModels;
 using GoodsCatalog.Core.Model;
 using System.Collections.Generic;
+using System.Diagnostics;
 
 namespace GoodsCatalog.Core.ViewModels
 {
     public class MainViewModel : MvxViewModel
     {
-        private string api = "https://webapi20190101060659.azurewebsites.net/home/getcatalog";
+        private string api = "https://webapi20190101060659.azurewebsites.net/product/getcatalog";
 
         private static ObservableCollection<Catalog> catalogList;
 
@@ -52,7 +53,7 @@ namespace GoodsCatalog.Core.ViewModels
                 {
                     var catalogitem = new Catalog
                     {
-                        Price = Convert.ToDouble(item.Price),
+                        Price = Convert.ToDecimal(item.Price),
                         Name = item.Name,
                         PhotoUrl = item.PhotoUrl
                     };
@@ -63,6 +64,7 @@ namespace GoodsCatalog.Core.ViewModels
 
             catch (Exception exception)
             {
+                Debug.WriteLine("Exception Message: " + exception.Message);
             }
 
             return list;

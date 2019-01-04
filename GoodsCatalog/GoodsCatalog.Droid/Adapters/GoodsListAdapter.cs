@@ -38,6 +38,7 @@ namespace GoodsCatalog.Droid.Adapters
             public TextView name;
             public TextView price;
             public ImageView photo;
+            public Button buybutton;
 
             public MyViewHolder(View itemView, IMvxAndroidBindingContext context) : base(itemView, context)
 
@@ -45,6 +46,8 @@ namespace GoodsCatalog.Droid.Adapters
                 name = itemView.FindViewById<TextView>(Resource.Id.name);
                 price = itemView.FindViewById<TextView>(Resource.Id.price);
                 photo = itemView.FindViewById<ImageView>(Resource.Id.photo);
+                buybutton = itemView.FindViewById<Button>(Resource.Id.buybutton);
+                
             }
         }
 
@@ -63,7 +66,7 @@ namespace GoodsCatalog.Droid.Adapters
             myHolder.photo.SetImageBitmap(bbb);
 
             myHolder.name.Text = catalog.Name;
-            myHolder.price.Text = catalog.Price.ToString();
+            myHolder.price.Text = "$"+catalog.Price.ToString();
 
         }
 

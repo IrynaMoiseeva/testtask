@@ -1,5 +1,9 @@
 ﻿<Properties StartupConfiguration="{C5459290-27DD-41FD-A12A-3C5E43ACF35C}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../../Library/Frameworks/Xamarin.Android.framework/Versions/9.1.4-2/lib/xamarin.android/xbuild/Xamarin/Android/Xamarin.Android.Common.targets">
+    <Files>
+      <File FileName="../../../../../../Library/Frameworks/Mono.framework/External/xbuild/Xamarin/Android/Xamarin.Android.Common.targets" Line="1327" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches>
     <Watch file="../../../../../MvvmCross Application1/MvvmCross_Application1.Core/DataBase/Repository.cs" line="41" offsetX="447" offsetY="600" expression="list" liveUpdate="False" />
   </MonoDevelop.Ide.DebuggingService.PinnedWatches>

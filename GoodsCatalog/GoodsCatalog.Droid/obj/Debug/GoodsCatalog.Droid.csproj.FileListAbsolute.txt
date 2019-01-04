@@ -84,6 +84,7 @@
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/bin/Debug/Newtonsoft.Json.xml
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/GoodsCatalog.Droid.nuget.stamp
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/MonoAndroid,Version=v8.1.AssemblyAttributes.cs
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/GoodsCatalog.Droid.csprojAssemblyReference.cache
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/libraryimports.cache.stamp
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res.flag
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/GoodsCatalog.Droid.csproj.CoreCompileInputs.cache
@@ -105,6 +106,7 @@
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/values-v21/styles.xml
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/layout/catalog_list_item.xml
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/splash.png
+/Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/drawable/buttonrounded.xml
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/res/layout/mainview.xml
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/R.cs.flag
 /Users/irina/Documents/testtask/GoodsCatalog/GoodsCatalog.Droid/obj/Debug/R.txt
